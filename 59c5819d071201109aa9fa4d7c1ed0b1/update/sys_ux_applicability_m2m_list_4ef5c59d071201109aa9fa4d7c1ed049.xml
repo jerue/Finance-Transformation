@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for appHRWorkspace">31f5c59d071201109aa9fa4d7c1ed01d</applicability>
+        <list display_value="Unassigned">42f5c59d071201109aa9fa4d7c1ed048</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-16 18:22:26</sys_created_on>
+        <sys_id>4ef5c59d071201109aa9fa4d7c1ed049</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="HRWorkspace" source="x_60717_hrworksp_0">59c5819d071201109aa9fa4d7c1ed0b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HRWorkspace">59c5819d071201109aa9fa4d7c1ed0b1</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_4ef5c59d071201109aa9fa4d7c1ed049</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-16 18:22:26</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

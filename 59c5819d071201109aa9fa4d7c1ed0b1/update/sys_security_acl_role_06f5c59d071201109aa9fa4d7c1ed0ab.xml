@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-16 18:22:27</sys_created_on>
+        <sys_id>06f5c59d071201109aa9fa4d7c1ed0ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.60717.hrworkspace.*.knowledge_admin</sys_name>
+        <sys_package display_value="HRWorkspace" source="x_60717_hrworksp_0">59c5819d071201109aa9fa4d7c1ed0b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HRWorkspace">59c5819d071201109aa9fa4d7c1ed0b1</sys_scope>
+        <sys_security_acl display_value="x.60717.hrworkspace.*">fcf5859d991201108a47f55fbdbd439c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_06f5c59d071201109aa9fa4d7c1ed0ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-16 18:22:27</sys_updated_on>
+        <sys_user_role display_value="knowledge_admin" name="knowledge_admin">aaa4855d0a0a0b820170399909974b83</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
