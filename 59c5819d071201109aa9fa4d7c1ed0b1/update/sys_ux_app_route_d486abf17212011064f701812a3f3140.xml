@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Finance Workspace Config">5886abf1501201104f7d29b3ccccd142</app_config>
+        <description/>
+        <fields>sysId</fields>
+        <icon/>
+        <name>Dashboard</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>dashboard</route_type>
+        <screen_type display_value="Dashboard">9886abf1281201102996d671dca4d140</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-18 19:20:50</sys_created_on>
+        <sys_id>d486abf17212011064f701812a3f3140</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard</sys_name>
+        <sys_package display_value="HRWorkspace" source="x_60717_hrworksp_0">59c5819d071201109aa9fa4d7c1ed0b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HRWorkspace">59c5819d071201109aa9fa4d7c1ed0b1</sys_scope>
+        <sys_update_name>sys_ux_app_route_d486abf17212011064f701812a3f3140</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-18 19:20:50</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=d486abf17212011064f701812a3f3140"/>
+</record_update>

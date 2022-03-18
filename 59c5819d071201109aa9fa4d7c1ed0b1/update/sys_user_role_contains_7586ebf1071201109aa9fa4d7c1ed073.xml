@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="pa_admin" name="pa_admin">a4cc30b3bf101100b96dac808c073918</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-18 19:20:54</sys_created_on>
+        <sys_id>7586ebf1071201109aa9fa4d7c1ed073</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.pa_admin</sys_name>
+        <sys_package display_value="HRWorkspace" source="x_60717_hrworksp_0">59c5819d071201109aa9fa4d7c1ed0b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HRWorkspace">59c5819d071201109aa9fa4d7c1ed0b1</sys_scope>
+        <sys_update_name>sys_user_role_contains_7586ebf1071201109aa9fa4d7c1ed073</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-18 19:20:54</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
